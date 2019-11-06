@@ -12,6 +12,7 @@ class Home extends React.Component {
 <form class="ui form">
   <div class="field">
     <label>Email id and Name</label>
+    <label>Email id and Name</label>
     <input placeholder="Enter Email id" />
   </div>
   <div class="field">
